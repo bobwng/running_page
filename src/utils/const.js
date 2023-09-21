@@ -1,11 +1,12 @@
 // const
 const MAPBOX_TOKEN =
-  'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJja2J3M28xbG4wYzl0MzJxZm0ya2Fua2p2In0.PNKfkeQwYuyGOTT_x9BJ4Q';
+  'pk.eyJ1Ijoid2FuZ3l1YW56aGkiLCJhIjoiY2toN2Z5d3d2MDdxbzJ6bXc5OW02OGQ1OSJ9.iqPWTyXf_GInWkihem1Z5w';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
-  '天津市',
-  '重庆市',
+  '青岛市',
+  '广州市',
+  '大连市',
   '香港特别行政区',
   '澳门特别行政区',
 ];
